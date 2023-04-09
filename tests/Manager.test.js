@@ -1,6 +1,5 @@
 // DATA FROM MANAGER JS FILE
 const Manager = require("../lib/Manager.js");
-// jest.mock("../lib/Manager.js");
 
 test("creates an object for the manager", () => {
     const manager = new Manager("Bob", 10, "Bob@gmail.com", 30);

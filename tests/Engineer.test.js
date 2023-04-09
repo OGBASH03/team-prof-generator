@@ -1,6 +1,5 @@
 //DATA FROM ENGINNER JS FILE
 const Engineer = require("../lib/Engineer.js");
-// jest.mock("../lib/Engineer.js");
 
 test("creates an object for the engineer", () => {
     const engineer = new Engineer("Bob", 10, "Bob@gmail.com", "Bobshack");
