@@ -5,5 +5,26 @@
   },
   "devDependencies": {
     "jest": "^29.5.0"
-  }
+  },
+  "name": "team-prof-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OGBASH03/team-prof-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OGBASH03/team-prof-generator/issues"
+  },
+  "homepage": "https://github.com/OGBASH03/team-prof-generator#readme",
+  "description": ""
 }
